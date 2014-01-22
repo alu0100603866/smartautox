@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<!--  -->
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>SmartAuto</title>
+    
+    <!-- color para los links -->
+    <style>a:link {color: White;} a:visited {color: White;} a:hover{color: LightBlue;} </style>
+
+</head>
+
+
+<body body BGCOLOR = "black" style = "background-color:#190707; background-attachment: fixed; font-family:arial; color:white; font-size:15px; text-align:center; background-image:url(http://www.airrockstar.com/images/ULT_Background_v6.jpg); background-position:center;">
+
+	
+    <header>
+        
+	<img src="logo-SA.png" align="center" width=50% height=50%><br><br>
+
+	<table border="0"; align="center"; bgcolor="#566D7E"; >
+	  <tr>
+   	  <td width="185"><a href="proyectoSIPC.html5" style="text-decoration:none"><strong>Inicio</strong></a></td>
+   	  <td width="185"><a href="funciones.html5" style="text-decoration:none"><I><b>Funciones Disponibles</b></I></a></td>
+   	  <td width="185"><a href="testimonios.html5" style="text-decoration:none">Testimonios de Usuarios</a></td>
+   	  <td width="185"><a href="contacto.html5" style="text-decoration:none">Información de Contacto</a></td>
+	</tr>
+	</table>
+	<br>
+
+    </header>
+
+        <section>
+        <article>
+            <header>
+                <h1>Funciones básicas incluidas en SmartAuto </h1>
+		<br>
+            </header>
+            <section>
+
+		<iframe width="390" height="250" src="http://www.youtube.com/embed/XxOiwaqsDZo" frameborder="0" allowfullscreen>
+		</iframe>
+
+		<br><br>
+
+		<table align="center" border="0">
+		  <tr>
+		    <td align="left"; width="150"; height="40";><b>Arrancar el coche</b></td>
+		    <td align="left"; width="500";>Con un simple giro de la mano podremos arrancar el coche gracias al sistema
+			de reconocimiento facial incluido en SmartAuto</td>
+		  </tr>
+		  <tr>
+		    <td align="left"; width="150"; height="40";><b>Reclinar asiento</b></td>
+		    <td align="left"; width="500";>Moviendo la mano dos veces hacia el usuario activamos el reclinamiento
+			automatico del asiento para ajustarlo a nuestro gusto</td>
+		  </tr>
+		  <tr>
+		    <td align="left"; width="150"; height="40";><b>Cambiar de pista</b></td>
+		    <td align="left"; width="500";>Pasando el dedo de izquierda a derecha pasamos a la siguiente canción
+			y de izquierda a derecha para retroceder</td>
+		  </tr>
+		  <tr>
+		    <td align="left"; width="150"; height="40";><b>Subir y bajar</br> el volumen</b></td>
+		    <td align="left"; width="500";>Usando dos dedos podemos ajustar el volumen de nuestro reproductor
+			de música</td>
+		  </tr>
+		  <tr>
+		    <td align="left"; width="150"; height="40";><b>Limpiaparabrisas</b></td>
+		    <td align="left"; width="500";>Imitando el movimiento del limpiaparabrisas con la mano activamos
+			el mismo, según la velocidad de ejecución sera la velocidad
+			a la que se active el limpiaparabrisas</td>
+		  </tr>
+		  <tr>
+		    <td align="left"; width="150"; height="40";><b>Luces</b></td>
+		    <td align="left"; width="500";>Abriendo la mano hacia delante, se encienden las luces</td>
+		  </tr>
+		  <tr>
+		    <td align="left"; width="150"; height="40";><b>Ventanillas</b></td>
+		    <td align="left"; width="500";> Con el mismo gesto con el que indicamos a un conductor que no
+			tiene las luces puestas, con SmartAuto podremos encender las de nuestro vehículo</td>
+		  </tr>
+		</table>
+	
+            </section>
+        </article>
+
+    
+</body>
+</html>

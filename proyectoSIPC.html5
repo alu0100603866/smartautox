@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<!--  -->
+
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>SmartAuto</title>
+
+    <style>a:link {color: White;} a:visited {color: White;} a:hover{color: LightBlue;} </style>
+
+</head>
+
+<body body BGCOLOR = "black" style = "background-color:#190707; background-attachment: fixed; font-family:arial; color:white; font-size:15px; text-align:center; background-image:url(http://www.airrockstar.com/images/ULT_Background_v6.jpg); background-position:center;">
+    <header>
+        
+	<img src="logo-SA.png" align="center" width=50% height=50%><br><br>
+	
+	<table border="0"; align="center"; bgcolor="#566D7E"; >
+	<tr>
+   	  <td width="185"><a href="proyectoSIPC.html5" style="text-decoration:none"><I><b>Inicio</b></I></a></td>
+   	  <td width="185"><a href="funciones.html5" style="text-decoration:none">Funciones disponibles</a></td>
+   	  <td width="185"><a href="testimonios.html5" style="text-decoration:none">Testimonios de usuarios</a></td>
+   	  <td width="185"><a href="contacto.html5" style="text-decoration:none">Información de Contacto</a></td>
+	</tr>
+	</table>
+	<br>
+
+    </header>
+
+    <section>
+	<article>
+            <header>
+                <h1>¿Qué es SmartAuto?</h1>
+            </header>
+            <section>
+	      <table align="center"; border="0";>
+                <tr>
+		  <td width="700";>El proyecto SmartAuto pretende facilitar la conducción del usuario, incorporando al vehículo las más
+		  sofisticadas y avanzadas tencologías.Los smartphones han supuesto toda un revolución táctil, al igual que las tablets.
+		  Una revolución que ha alterado todo nuestro mundo. En SmartAuto, nos hemos propuesto trasladar esta revolución a los coches.
+		  </td>
+		</tr>
+	      </table>
+	    </section>
+  	<br><br>
+	<img src="http://www.autodescuento.com/blog/wp-content/uploads/2009/03/coches_opel_insignia.JPG.pagespeed.ce.Um4Qip3NAv.jpg" width="40%"  heigth="40%" align="center">
+	<br><br><br>
+
+            <section>
+	      <table align="center"; border="0";>
+                <tr>
+		  <td width="700";>Proponemos una interfaz gestual que permita al conductor controlar las distintas funciones del coche
+		  de manera fácil, rápida e intuitiva.Esto supone una mejora de seguridad a la par que de
+		  la comodidad del conductor. Los conductores podrán estar más pendientes de la carretera mientras conducen
+		  sin preocuparse de accionar los distintos mecanismos necesarios para realizar una acción.<br><br>
+		
+		  Además, el sistema SmartAuto, puede incorporar adicionalmente mecanismos de seguridad
+		  para el reconocimiento de peatones y distancia entre vehículos, entre otros añadidos.<br><br>
+
+		  El sistema de detección de gestos es válido para todo tipo de personas, sin importar la edad
+		  o su condición física. SmartAuto incorpora un sistema de registro de usuarios, haciendo el sistema totalmente personalizable. 
+		  </td>
+		</tr>
+	      </table>
+		
+	    </section>
+
+	<br><br>
+	
+        </article>
+
+
+        
+		
+		
+
+    </section>
+    
+      
+    
+</body>
+</html>

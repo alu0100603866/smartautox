@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<!--  -->
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>SmartAuto</title>
+    
+    <!-- color para los links -->
+    <style>a:link {color: White;} a:visited {color: White;} a:hover{color: LightBlue;} </style>
+
+</head>
+
+
+<body body BGCOLOR = "black" style = "background-color:#190707; background-attachment: fixed; font-family:arial; color:white; font-size:15px; text-align:center; background-image:url(http://www.airrockstar.com/images/ULT_Background_v6.jpg); background-position:center;">
+	
+    <header>
+        
+	<img src="logo-SA.png" align="center" width=50% height=50%><br><br>
+
+	<table border="0"; align="center"; bgcolor="#566D7E"; >
+	  <tr>
+   	  <td width="185"><a href="proyectoSIPC.html5" style="text-decoration:none"><strong>Inicio</strong></a></td>
+   	  <td width="185"><a href="funciones.html5" style="text-decoration:none">Funciones disponibles</a></td>
+   	  <td width="185"><a href="testimonios.html5" style="text-decoration:none">Testimonios de usuarios</a></td>
+   	  <td width="185"><a href="contacto.html5" style="text-decoration:none"><I><b>Información de Contacto</b></I></a></td>
+	</tr>
+	</table>
+	<br>
+
+    </header>
+
+        <section>
+        <article>
+            <header>
+                <h1>Información de contacto </h1>
+		<br><br>
+            </header>
+            <section>
+	      <table align="center"; border="0";>
+		  <tr>
+		    <td width="270"; height="23";>Juan Tareq González de Chávez Pérez:</td>
+		    <td width="255";>alu0100603866@ull.edu.es</td>
+		  </tr>
+		  <tr>
+		    <td width="270"; height="23";>Bruno Alessio Bibbó:</td>
+		    <td width="255";>alu0100697063@ull.edu.es</td>
+		  </tr>
+		  <tr>
+		    <td width="270"; height="23";>Laura A. Gómez González:</td>
+		    <td width="255";>alu0100698244@ull.edu.es</td>
+		  </tr>
+		  <tr>
+		    <td width="270"; height="23";>Alberto Fariña Barrera:</td>
+		    <td width="255";>alu0100695816@ull.edu.es</td>
+		  </tr>
+		  <tr>
+		    <td width="270"; height="23";>Genaro Fumero:</td>
+		    <td width="255";>alu0100371895@ull.edu.es</td>
+		  </tr>
+	      </table>
+            </section>
+        </article>
+		
+        <article>
+            <section>
+                <br><br>
+				Enviar dudas o sugerencias al correo: SmartAuto@ullproyect.es </br></br>
+				Atención telefónica todos los días del año a cualquier hora </br>
+				solicita información, a través del número: 999 66 55 44
+				
+            </section>
+        </article>
+    </section>
+
+    
+</body>
+</html>
