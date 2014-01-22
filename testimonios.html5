@@ -20,7 +20,7 @@
 
 	<table border="0"; align="center"; bgcolor="#566D7E"; >
 	<tr>
-   	  <td width="185"><a href="proyectoSIPC.html5" style="text-decoration:none">Inicio</a></td>
+   	  <td width="185"><a href="index.html5" style="text-decoration:none">Inicio</a></td>
    	  <td width="185"><a href="funciones.html5" style="text-decoration:none">Funciones Disponibles</a></td>
    	  <td width="185"><a href="testimonios.html5" style="text-decoration:none"><I><b>Testimonios de Usuarios</b></I></a></td>
    	  <td width="185"><a href="contacto.html5" style="text-decoration:none">Información de Contacto</a></td>
